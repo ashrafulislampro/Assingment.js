@@ -79,7 +79,7 @@ brickCalculator();
 
          }    
      }
-     console.log("The shortest name :", shortestName );
+     console.log("The shortest name :",shortestName);
      return shortestName;
  }
  //Function called below
